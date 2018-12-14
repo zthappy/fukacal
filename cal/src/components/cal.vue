@@ -18,7 +18,7 @@ export default {
   data () {
     return {
       weekList: ['日', '一', '二', '三', '四', '五', '六'],
-      startDate: '2018-10-11',
+      startDate: new Date(),
       monthcount: 12,
       dayArr: []
     }

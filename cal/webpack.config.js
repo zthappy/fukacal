@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'fukacal.js',
-    library:'Fukacal',   //reqire引入的名字
+    library:'Fukacal',
     libraryTarget:'umd',
     umdNamedDefine:true
   },
