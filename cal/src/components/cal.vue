@@ -68,11 +68,10 @@ export default {
         temp.arr = this.getMonthList(year, month)
         this.dayArr.push(temp)
       }
-      console.log(this.dayArr)
     },
     chooseDate (item, index) {
-      console.log(item.name, item.arr[index].day)
-      // this.$emit('choose', choose)
+      let data = item.name + '-' + item.arr[index].day
+      this.$emit('choose', data)
     }
   }
 }

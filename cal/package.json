@@ -1,12 +1,12 @@
 {
   "name": "fukacalhappy",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "lc",
   "license": "MIT",
   "private": false,
   "main": "dist/fukacal.js",
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/zthappy/fukacal"
   },
