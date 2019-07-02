@@ -1,0 +1,9 @@
+GET https://tudg.qq.com/dataimport/ImportService?m=dataImport&p=[%22100000%22,%22dm%3Dwx.gtimg.com%26url%3D%2Fauthority_payment%2Frenew_succ.html%26pvi%3D2456184832%26si%3Ds1309860864%26sp%3D111%26random%3D1557456056095%26sk%3D%26type%3Dextend%26uid%3D361557223260762-4e23b73c-a470-8ce4%26sid%3D1557456048490-aa586e3d-71e3-84d9%26pid%3D34%26cid%3D81%26gid%3D113%26sk1%3Dpgv%26sv1%3D113%26sp1%3D1557456056091%22] HTTP/1.1
+Host: tudg.qq.com
+Connection: keep-alive
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Referer: https://wx.gtimg.com/authority_payment/renew_succ.html?showwxpaytitle=1&dis_account=tongcheng71945&bank=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C-%E5%82%A8%E8%93%84%E5%8D%A1-9407&returnApp=1&appid=wxc9cdd58cd74840bb&from=undefined
+Accept-Encoding: gzip, deflate
+

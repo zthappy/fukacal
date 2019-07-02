@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Date: Fri, 10 May 2019 02:41:18 GMT
+Content-Type: application/json;charset=utf-8
+Connection: close
+Content-Length: 332
+X-Powered-By: ring/1.0.0
+gsid: 011183253239155745607861100143371039635
+sc: 0.011
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,key,x-biz,x-info,platinfo,encr,enginever,gzipped,poiid
+
+{"status":"1","regeocode":{"addressComponent":{"streetNumber":{"number":"188号","street":"裕新路"},"country":"中国","city":"苏州市","province":"江苏省","adcode":"320571","district":"苏州工业园区","citycode":"0512"},"aois":[{"name":"同程大厦"}],"pois":[{"name":"同程大厦"}]},"info":"OK","infocode":"10000"}

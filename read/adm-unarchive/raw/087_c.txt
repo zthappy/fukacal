@@ -1,0 +1,47 @@
+CONNECT m.ly.com:443 HTTP/1.1
+Host: m.ly.com
+User-Agent: TCTravel_IPhone/9.1.5 (iPhone; iOS 10.3.3; Scale/3.00)
+Connection: keep-alive
+Connection: keep-alive
+
+A SSLv3-compatible ClientHello handshake was found. Fiddler extracted the parameters below.
+
+Version: 3.3 (TLS/1.2)
+Random: 5C D4 E4 D0 BA 80 EE B9 F9 43 BF 48 E1 5A 84 34 4E CF 32 50 8B 10 C7 0A D6 7F A1 1E A0 87 3B C1
+"Time": 2081/1/21 11:58:20
+SessionID: empty
+Extensions: 
+	server_name	m.ly.com
+	elliptic_curves	secp256r1 [0x17], secp384r1 [0x18], secp521r1 [0x19]
+	ec_point_formats	uncompressed [0x0]
+	signature_algs	sha256_rsa, sha1_rsa, sha384_rsa, sha512_rsa, sha256_ecdsa, sha1_ecdsa, sha384_ecdsa, sha512_ecdsa
+	NextProtocolNego	empty
+	ALPN		http/1.1, http/1.0
+	status_request	OCSP - Implicit Responder
+	SignedCertTimestamp (RFC6962)	empty
+	extended_master_secret	empty
+Ciphers: 
+	[00FF]	TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+	[C02C]	TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+	[C02B]	TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+	[C024]	TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+	[C023]	TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+	[C00A]	TLS1_CK_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+	[C009]	TLS1_CK_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+	[C030]	TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	[C02F]	TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	[C028]	TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	[C027]	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+	[C014]	TLS1_CK_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	[C013]	TLS1_CK_ECDHE_RSA_WITH_AES_128_CBC_SHA
+	[009D]	TLS_RSA_WITH_AES_256_GCM_SHA384
+	[009C]	TLS_RSA_WITH_AES_128_GCM_SHA256
+	[003D]	TLS_RSA_WITH_AES_256_CBC_SHA256
+	[003C]	TLS_RSA_WITH_AES_128_CBC_SHA256
+	[0035]	TLS_RSA_AES_256_SHA
+	[002F]	TLS_RSA_AES_128_SHA
+
+Compression: 
+	[00]	NO_COMPRESSION
+
+

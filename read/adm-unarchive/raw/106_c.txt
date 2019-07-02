@@ -1,0 +1,9 @@
+GET https://jr.ly.com/mkt-web/module/portal-web/baoli/ad HTTP/1.1
+Host: jr.ly.com
+Accept: */*
+Cookie: JSESSIONID=877335C5D7282AAC5AFC8601DC6991F9; route=082ed07133b2638bdbe6f3479a76cdfc; NCName=%E8%8B%8F%E5%B7%9E; NCid=226; NewProvinceId=16; NewProvinceName=%E6%B1%9F%E8%8B%8F
+User-Agent: TCTravel_IPhone/9.1.5 (iPhone; iOS 10.3.3; Scale/3.00)
+Accept-Language: zh-Hans-CN;q=1, zh-Hant-CN;q=0.9, ja-CN;q=0.8, en-US;q=0.7
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+

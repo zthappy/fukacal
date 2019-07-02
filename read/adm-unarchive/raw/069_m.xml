@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="82" BitFlags="2100">
+  <SessionTimers ClientConnected="2019-05-10T10:41:19.0436679+08:00" ClientBeginRequest="2019-05-10T10:41:19.0436679+08:00" GotRequestHeaders="2019-05-10T10:41:19.0436679+08:00" ClientDoneRequest="2019-05-10T10:41:19.0436679+08:00" GatewayTime="0" DNSTime="0" TCPConnectTime="24" HTTPSHandshakeTime="71" ServerConnected="2019-05-10T10:41:19.0686704+08:00" FiddlerBeginRequest="2019-05-10T10:41:19.0686704+08:00" ServerGotRequest="2019-05-10T10:41:19.0686704+08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2019-05-10T10:41:19.0686704+08:00" ClientDoneResponse="2019-05-10T10:41:19.0686704+08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-egressport" V="53202" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="60840" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="::ffff:10.101.128.113" />
+    <SessionFlag N="https-client-sessionid" V="F1 2C 00 00 31 BC 9A D9 76 5D 03 7F FF BE E7 48 0B 55 96 84 81 34 91 DB BE BF BD 32 A6 8F 79 84" />
+    <SessionFlag N="x-hostip" V="219.133.60.230" />
+    <SessionFlag N="https-client-snihostname" V="ios.bugly.qq.com" />
+    <SessionFlag N="https-server-cipher" V="Aes128 128bits" />
+  </SessionFlags>
+</Session>

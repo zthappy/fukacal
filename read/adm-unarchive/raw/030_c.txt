@@ -1,0 +1,9 @@
+GET https://api.mch.weixin.qq.com/papay/addcontract?appid=wxc9cdd58cd74840bb&contract_code=636471945&duration_selected=&mch_id=1319423101&notify_url=http%3A%2F%2Ftrain.t.17usoft.net%2Fsgcallback%2Fpay%2Fnotify&plan_id=123452&request_serial=20190510104031&sign=0B5B4CDEF103D5F5907074D5E13A8EFE&timestamp=1557484831&version=1.0&wx_rf=&return_app=1&clientip=172.18.63.99&contract_display_account=tongcheng71945&entrustweb_token=fbf80e202ea34d16375ad7a97d81ff37&entrustweb_acct=oX2-vjmxExVPBwqdBPVQKcgr_3w0&gray_switch=1&wx_appid=wx57849631bb367f52&wx_timestamp=1557456048&noncestr=15574560481625168045&bus_info=PlatSpid%253D1000018301%2526purpose%253Dopen_contract_pay%2526uin%253D085e9858e4e4d737f6fb97ed8%2526token_scene%253D1%2526busi_purpose%253Dopen_contract_pay%2526plan_id%253D123452%2526contract_code%253D636471945%2526contract_id%253D&signtype=SHA1&token=wx_4191843551&bank_type=ICBC_DEBIT&bank_serial=810157235400000000010827553791&duration_id=&mode=3&entrustweb_token=fbf80e202ea34d16375ad7a97d81ff37&entrustweb_acct=oX2-vjmxExVPBwqdBPVQKcgr_3w0&callback=addContractResult&_=1557456054604 HTTP/1.1
+Host: api.mch.weixin.qq.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Referer: https://wx.gtimg.com/authority_payment/renew_open.html?appid=wxc9cdd58cd74840bb&contract_code=636471945&duration_selected=&mch_id=1319423101&notify_url=http%3A%2F%2Ftrain.t.17usoft.net%2Fsgcallback%2Fpay%2Fnotify&plan_id=123452&request_serial=20190510104031&sign=0B5B4CDEF103D5F5907074D5E13A8EFE&timestamp=1557484831&version=1.0&wx_rf=&return_app=1&clientip=172.18.63.99&contract_display_account=tongcheng71945&entrustweb_token=fbf80e202ea34d16375ad7a97d81ff37&entrustweb_acct=oX2-vjmxExVPBwqdBPVQKcgr_3w0&gray_switch=1
+Accept-Encoding: gzip, deflate
+

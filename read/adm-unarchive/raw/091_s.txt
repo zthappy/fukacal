@@ -1,0 +1,8 @@
+HTTP/1.1 404 Not Found
+Date: Fri, 10 May 2019 02:41:20 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 129
+Connection: keep-alive
+Vary: Origin
+
+{"errors":[{"title":"NOT_FOUND","detail":"sorry, path / cannot be found, please check your request and try again","code":"404"}]}

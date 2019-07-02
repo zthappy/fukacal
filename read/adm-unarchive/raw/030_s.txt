@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 May 2019 02:40:55 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 32
+Connection: keep-alive
+Keep-Alive: timeout=8
+Cache-Control: no-cache, must-revalidate
+
+addContractResult({"errcode":0})

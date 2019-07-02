@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 May 2019 02:41:13 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 729
+Connection: keep-alive
+Keep-Alive: timeout=8
+Cache-Control: no-cache, must-revalidate
+
+getJSApiConfigResult({"appid":"wx57849631bb367f52","noncestr":"15574560733351773328","url":"https:\/\/wx.gtimg.com\/authority_payment\/renew_succ.html?showwxpaytitle=1&dis_account=tongcheng71945&bank=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C-%E5%82%A8%E8%93%84%E5%8D%A1-9407&returnApp=1&appid=wxc9cdd58cd74840bb&from=undefined","sign":"fcab01c713095fd88288c971cdce5c06165ca16d","errcode":0,"timestamp":"1557456073","package":"bus_info=PlatSpid%3D1000018301%26purpose%3Dopen_contract_pay%26uin%3D085e9858e4e4d737f6fb97ed8%26token_scene%3D1%26busi_purpose%3Dopen_contract_pay%26plan_id%3D%26contract_code%3D%26contract_id%3D&sign=9e1d22b364a6f22c833aaa6f14268780","paysign":"dadfa223c31a0eb5199fdf1cf5afbc7aedb48ac9","signtype":"SHA1"})

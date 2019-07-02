@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 May 2019 02:40:48 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 755
+Connection: keep-alive
+Keep-Alive: timeout=8
+Cache-Control: no-cache, must-revalidate
+
+preAddContractResult({"errcode":0,"mername":"同程艺龙","planname":"同程艺龙火车票微信支付委托代扣","plannote":"用户在火车票预订过程中授权同程艺龙达成约定后通过微信支付自动扣款，每日最多5次，单次限额2000元。","planduration":[],"bankinfo":[{"bindserial":"CFT","banktype":"CFT","display":"零钱","forbid_word":"","banklogo":""},{"bindserial":"810157235400000000010827553791","banktype":"ICBC_DEBIT","display":"工商银行 储蓄卡 9407","forbid_word":"","banklogo":"http:\/\/res.wx.qq.com\/zh_CN\/htmledition\/images\/mmpaybanklogo\/PayCardGSlogo@2x.png"}],"companyname":"苏州创旅天下信息技术有限公司","plantype":2,"need_userauth":"N","plan_limit_pay":"","plan_limit_bank":""})

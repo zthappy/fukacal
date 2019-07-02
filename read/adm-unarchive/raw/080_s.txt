@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: openresty/1.11.2.5
+Date: Fri, 10 May 2019 02:41:19 GMT
+Content-Type: text/html
+Content-Length: 2
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Method: GET,OPTIONS
+Access-Control-Allow-Headers: accept,content-type,*/*
+
+OK

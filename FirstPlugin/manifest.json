@@ -1,0 +1,25 @@
+{
+    "name": "todo-plugin",
+    "version": "0.9.0",
+    "manifest_version": 2,
+    "description": "chrome plugin demo",
+    "content_scripts": [
+        {
+            "matches": ["http://tcservice.17usoft.com/*"],
+            "js": ["jquery.js","index2.js"]
+        }
+    ],
+    "background":{
+        "scripts":["jquery.js","background2.js"]
+    },
+    "permissions":[
+        "tabs",
+        "bookmarks",
+        "https://m.ctrip.com/*",    
+        "http://*.google.com/",    
+        "unlimitedStorage",
+        "history",
+        "notifications",
+        "cookies"
+    ]
+}

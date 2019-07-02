@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="88" BitFlags="2100">
+  <SessionTimers ClientConnected="2019-05-10T10:41:19.2006836+08:00" ClientBeginRequest="2019-05-10T10:41:19.2006836+08:00" GotRequestHeaders="2019-05-10T10:41:19.2006836+08:00" ClientDoneRequest="2019-05-10T10:41:19.2006836+08:00" GatewayTime="0" DNSTime="0" TCPConnectTime="2" HTTPSHandshakeTime="36" ServerConnected="2019-05-10T10:41:19.2036839+08:00" FiddlerBeginRequest="2019-05-10T10:41:19.2036839+08:00" ServerGotRequest="2019-05-10T10:41:19.2036839+08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2019-05-10T10:41:19.2036839+08:00" ClientDoneResponse="2019-05-10T10:41:19.204684+08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-egressport" V="53206" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="60842" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="::ffff:10.101.128.113" />
+    <SessionFlag N="https-client-sessionid" V="empty" />
+    <SessionFlag N="x-hostip" V="61.155.197.248" />
+    <SessionFlag N="https-client-snihostname" V="shouji1.17u.cn" />
+    <SessionFlag N="https-server-cipher" V="Aes256 256bits" />
+  </SessionFlags>
+</Session>

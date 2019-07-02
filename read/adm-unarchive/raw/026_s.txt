@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 May 2019 02:40:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 257
+Connection: keep-alive
+Cache-Control: private
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+id: TCWEBV063027
+
+{"ResponseCode":1000,"ResponseMsg":"操作成功","ResponseTime":"2019-05-10 10:40:50","ResponseBody":{"FromStationCrossBorder":false,"ToStationCrossBorder":false,"ReturnTicketTime":35,"ChangeTicketTime":35},"ResponseTag":"7b333fa86e2d43bebf059605dc26bd8a"}

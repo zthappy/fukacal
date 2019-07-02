@@ -1,0 +1,5 @@
+CONNECT clients1.google.com:443 HTTP/1.1
+Host: clients1.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+

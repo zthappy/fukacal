@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 May 2019 02:41:19 GMT
+Content-Type: application/xml
+Content-Length: 214
+Connection: keep-alive
+Server: openresty
+x-amz-request-id: tx0000000000000080b0c3b-005cd4df1c-55cc36e-default
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Method: GET,OPTIONS
+Access-Control-Allow-Headers: accept,content-type,*/*
+
+<?xml version="1.0" encoding="UTF-8"?><ListAllMyBucketsResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Owner><ID>anonymous</ID><DisplayName></DisplayName></Owner><Buckets></Buckets></ListAllMyBucketsResult>

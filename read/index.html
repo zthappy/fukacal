@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style>
+			#holder {
+				border: 10px dashed #ccc;
+				/* width: 300px; */
+				height: 300px;
+				margin: 20px auto;
+			}
+			#holder.hover {
+				border: 10px dashed #333;
+			}
+		</style>
+		
+		<script>
+			//Same as $(document).ready();
+			var fs = require('fs')
+			var path = "aaa"
+			function ready(fn) {
+				if (document.readyState != 'loading') {
+					fn();
+				} else {
+					document.addEventListener('DOMContentLoaded', fn);
+				}
+			}
+			//When the page has loaded, run this code
+			ready(function() {
+				// prevent default behavior from changing page on dropped file
+				window.ondragover = function(e) {
+					e.preventDefault();
+					return false
+				};
+				// NOTE: ondrop events WILL NOT WORK if you do not "preventDefault" in the ondragover event!!
+				window.ondrop = function(e) {
+					e.preventDefault();
+					return false
+				};
+				var holder = document.getElementById('holder');
+				holder.ondragover = function() {
+					this.className = 'hover';
+					return false;
+				};
+				holder.ondragleave = function() {
+					this.className = '';
+					return false;
+				};
+				holder.ondrop = function(e) {
+					e.preventDefault();
+					path = e.dataTransfer.files[0].path
+					console.log(path)
+
+					// for (var i = 0; i < e.dataTransfer.files.length; ++i) {
+					// 	console.log(e.dataTransfer.files[i].path);
+					// }
+					return false;
+				};
+				function readFileList(path, filesList) {
+					var files = fs.readdirSync(path);
+					files.forEach(function (itm, index) {
+						var stat = fs.statSync(path + itm);
+						if (stat.isDirectory()) {
+						//递归读取文件
+							readFileList(path + itm + "/", filesList)
+						} else {
+
+							var obj = {};//定义一个对象存放文件的路径和名字
+							obj.path = path;//路径
+							obj.filename = itm//名字
+							filesList.push(obj);
+						}
+					})
+				}
+				//获取文件夹下的所有文件
+				function getFileList(path) {
+					var filesList = [];
+					readFileList(path, filesList);
+					console.log(filesList)
+					return filesList;
+				}
+                var test  = document.getElementById("jieya");
+                test.onclick = function() {
+                    var adm_zip = require('adm-zip');
+                    var unzip = new adm_zip(path);  
+					unzip.extractAllTo("adm-unarchive/", /*overwrite*/true);
+					getFileList('adm-unarchive/')
+                }
+            });
+        </script>
+	</head>
+	<body>
+        <div id="holder"></div>
+        <button id="jieya">abc</button>
+	</body>
+</html>

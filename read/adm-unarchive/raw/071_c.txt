@@ -1,0 +1,8 @@
+GET https://pic5.40017.cn/ HTTP/1.1
+Host: pic5.40017.cn
+Accept: */*
+Accept-Language: zh-Hans-CN;q=1, zh-Hant-CN;q=0.9, ja-CN;q=0.8, en-US;q=0.7
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+User-Agent: TCTravel_IPhone/9.1.5 (iPhone; iOS 10.3.3; Scale/3.00)
+

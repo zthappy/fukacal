@@ -1,0 +1,8 @@
+GET https://api.mch.weixin.qq.com/papay/entrustweb?appid=wxc9cdd58cd74840bb&clientip=172.18.63.99&contract_code=636471945&contract_display_account=tongcheng71945&mch_id=1319423101&notify_url=http%3A%2F%2Ftrain.t.17usoft.net%2Fsgcallback%2Fpay%2Fnotify&plan_id=123452&request_serial=20190510104031&return_app=1&timestamp=1557484831&version=1.0&sign=0B5B4CDEF103D5F5907074D5E13A8EFE&exportkey=A6oPSRdxZvdfK7r5xcl8Cio%3D&pass_ticket=buCvkUXooQKfOU%2BJAZL9bp2t27qjMKdS3ryNZlR5bpBIK6SOSzlaWMNO1rxeoD5H HTTP/1.1
+Host: api.mch.weixin.qq.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 10:40:48.056
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 256bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=payapp.weixin.qq.com, OU=R&D, O=Tencent Technology (Shenzhen) Company Limited, L=Shenzhen, S=Guangdong, C=CN
+
+[Issuer]
+  CN=GeoTrust RSA CA 2018, OU=www.digicert.com, O=DigiCert Inc, C=US
+
+[Serial Number]
+  09D159A20E95CB9D79A44A8C434DC549
+
+[Not Before]
+  2018/12/28 8:00:00
+
+[Not After]
+  2020/2/26 20:00:00
+
+[Thumbprint]
+  71522DCD4C375F92177FFDBB7656150E317E9549
+
+[SubjectAltNames]
+payapp.weixin.qq.com, api.oz.weixin.qq.com, wx.gtimg.com, log.weixin.qq.com, api.pay.weixin.qq.com, api2.mch.weixin.qq.com, fraudhk.mch.weixin.qq.com, za.pay.wechat.com, fraudus.mch.weixin.qq.com, act.weixin.qq.com, fraud.mch.weixin.qq.com, apihk.mch.weixin.qq.com, mch.weixin.qq.com, api.mch.weixin.qq.com, apius.mch.weixin.qq.com, oz.weixin.qq.com, pay.weops.qq.com, action.weixin.qq.com, apitest.mch.weixin.qq.com, pay.weixin.qq.com

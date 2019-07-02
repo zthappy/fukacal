@@ -1,0 +1,33 @@
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 10:40:48.327
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 256bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=res.weixin.qq.com, OU=R&D, O=Shenzhen Tencent Computer Systems Company Limited, L=Shenzhen, S=Guangdong, C=CN
+
+[Issuer]
+  CN=GeoTrust RSA CA 2018, OU=www.digicert.com, O=DigiCert Inc, C=US
+
+[Serial Number]
+  04E1DB68EAA060EA21A171358207608F
+
+[Not Before]
+  2018/9/18 8:00:00
+
+[Not After]
+  2019/12/14 20:00:00
+
+[Thumbprint]
+  5E112D0F6D2E2866BB65A845D63A78D7F44D22B8
+
+[SubjectAltNames]
+res.weixin.qq.com, emoji.qpic.cn, res.wx.qq.com, weixinconf.qq.com, res.servicewechat.com, res2.wx.qq.com, mpvideo.qpic.cn

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.7.2
+Date: Fri, 10 May 2019 02:40:55 GMT
+Content-Type: application/json
+Content-Length: 43
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Xss-Protection: 1
+
+{"retCode":"0","retMsg":null,"retObj":true}

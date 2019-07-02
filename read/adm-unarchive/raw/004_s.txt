@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 May 2019 02:40:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 80
+Connection: keep-alive
+Cache-Control: private
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 4.0
+T: e/+rA16Tz4WAWXdNmo+0gKUUE9FzbWPRU8b75m9YpJE=
+M: zHz5madu5aIvgQMrVGxMyw==
+mc: 0
+es: 3
+fap: Wireless.Trajectory.SDKSaveEventListData
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+id: TCWEBV050117
+
+{"respCode":1000,"respMsg":"提交成功","respTime":"2019-05-10 10:40:47.2621"}

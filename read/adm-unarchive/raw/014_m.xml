@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="27" BitFlags="2100">
+  <SessionTimers ClientConnected="2019-05-10T10:40:48.5256164+08:00" ClientBeginRequest="2019-05-10T10:40:48.5276166+08:00" GotRequestHeaders="2019-05-10T10:40:48.5276166+08:00" ClientDoneRequest="2019-05-10T10:40:48.5276166+08:00" GatewayTime="0" DNSTime="1" TCPConnectTime="33" HTTPSHandshakeTime="89" ServerConnected="2019-05-10T10:40:48.5636202+08:00" FiddlerBeginRequest="2019-05-10T10:40:48.5636202+08:00" ServerGotRequest="2019-05-10T10:40:48.5636202+08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2019-05-10T10:40:48.5636202+08:00" ClientDoneResponse="2019-05-10T10:40:48.5636202+08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-egressport" V="53168" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="60820" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="::ffff:10.101.128.113" />
+    <SessionFlag N="https-client-sessionid" V="3A 48 00 00 A8 99 DE 9E CD 63 BB F0 B3 34 06 0C C4 D7 4C DE 52 6D AE 05 36 C5 E7 74 89 4F 18 D7" />
+    <SessionFlag N="x-hostip" V="14.17.43.114" />
+    <SessionFlag N="https-client-snihostname" V="tudg.qq.com" />
+    <SessionFlag N="https-server-cipher" V="Aes256 256bits" />
+  </SessionFlags>
+</Session>

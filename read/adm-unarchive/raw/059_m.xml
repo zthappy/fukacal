@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="72" BitFlags="2100">
+  <SessionTimers ClientConnected="2019-05-10T10:41:18.6196255+08:00" ClientBeginRequest="2019-05-10T10:41:18.6406276+08:00" GotRequestHeaders="2019-05-10T10:41:18.6406276+08:00" ClientDoneRequest="2019-05-10T10:41:18.6406276+08:00" GatewayTime="0" DNSTime="1" TCPConnectTime="4" HTTPSHandshakeTime="18" ServerConnected="2019-05-10T10:41:18.6466282+08:00" FiddlerBeginRequest="2019-05-10T10:41:18.6466282+08:00" ServerGotRequest="2019-05-10T10:41:18.6466282+08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2019-05-10T10:41:18.6466282+08:00" ClientDoneResponse="2019-05-10T10:41:18.6466282+08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-egressport" V="53198" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="60836" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="::ffff:10.101.128.113" />
+    <SessionFlag N="https-client-sessionid" V="empty" />
+    <SessionFlag N="x-hostip" V="180.96.1.179" />
+    <SessionFlag N="https-client-snihostname" V="pic3.40017.cn" />
+    <SessionFlag N="https-server-cipher" V="Aes128 128bits" />
+  </SessionFlags>
+</Session>

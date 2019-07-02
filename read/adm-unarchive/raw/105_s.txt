@@ -1,0 +1,15 @@
+HTTP/1.1 302 Moved Temporarily
+Server: openresty/1.11.2.5
+Date: Fri, 10 May 2019 02:41:21 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://jr.ly.com/mkt-web/module/portal-web/baoli/ad
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>openresty/1.11.2.5</center>
+</body>
+</html>

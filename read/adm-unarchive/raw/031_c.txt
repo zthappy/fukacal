@@ -1,0 +1,10 @@
+GET https://wx.gtimg.com/authority_payment/renew_succ.html?showwxpaytitle=1&dis_account=tongcheng71945&bank=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C-%E5%82%A8%E8%93%84%E5%8D%A1-9407&returnApp=1&appid=wxc9cdd58cd74840bb&from=undefined HTTP/1.1
+Host: wx.gtimg.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+If-Modified-Since: Fri, 10 May 2019 02:10:00 GMT
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Referer: https://wx.gtimg.com/authority_payment/renew_open.html?appid=wxc9cdd58cd74840bb&contract_code=636471945&duration_selected=&mch_id=1319423101&notify_url=http%3A%2F%2Ftrain.t.17usoft.net%2Fsgcallback%2Fpay%2Fnotify&plan_id=123452&request_serial=20190510104031&sign=0B5B4CDEF103D5F5907074D5E13A8EFE&timestamp=1557484831&version=1.0&wx_rf=&return_app=1&clientip=172.18.63.99&contract_display_account=tongcheng71945&entrustweb_token=fbf80e202ea34d16375ad7a97d81ff37&entrustweb_acct=oX2-vjmxExVPBwqdBPVQKcgr_3w0&gray_switch=1
+Accept-Encoding: gzip, deflate
+

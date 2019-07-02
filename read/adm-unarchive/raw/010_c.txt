@@ -1,0 +1,47 @@
+CONNECT wx.gtimg.com:443 HTTP/1.1
+Host: wx.gtimg.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Connection: keep-alive
+Connection: keep-alive
+
+A SSLv3-compatible ClientHello handshake was found. Fiddler extracted the parameters below.
+
+Version: 3.3 (TLS/1.2)
+Random: 5C D4 E4 B0 5D 1E AC AF 97 65 FB AB 7E C3 72 68 8C DF 1E 41 18 B3 C7 AE 8E 55 C4 AC F1 E9 82 DB
+"Time": 2064/1/17 17:09:48
+SessionID: FA 3E 00 00 F2 8D A9 C9 8B 8F 7F D7 ED F7 6C 0B 86 BB F7 60 B1 E4 A7 2E DB B2 43 B6 44 7A E2 2F
+Extensions: 
+	server_name	wx.gtimg.com
+	elliptic_curves	secp256r1 [0x17], secp384r1 [0x18], secp521r1 [0x19]
+	ec_point_formats	uncompressed [0x0]
+	signature_algs	sha256_rsa, sha1_rsa, sha384_rsa, sha512_rsa, sha256_ecdsa, sha1_ecdsa, sha384_ecdsa, sha512_ecdsa
+	NextProtocolNego	empty
+	ALPN		http/1.1, http/1.0
+	status_request	OCSP - Implicit Responder
+	SignedCertTimestamp (RFC6962)	empty
+	extended_master_secret	empty
+Ciphers: 
+	[00FF]	TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+	[C02C]	TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+	[C02B]	TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+	[C024]	TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+	[C023]	TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+	[C00A]	TLS1_CK_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+	[C009]	TLS1_CK_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+	[C030]	TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	[C02F]	TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	[C028]	TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	[C027]	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+	[C014]	TLS1_CK_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	[C013]	TLS1_CK_ECDHE_RSA_WITH_AES_128_CBC_SHA
+	[009D]	TLS_RSA_WITH_AES_256_GCM_SHA384
+	[009C]	TLS_RSA_WITH_AES_128_GCM_SHA256
+	[003D]	TLS_RSA_WITH_AES_256_CBC_SHA256
+	[003C]	TLS_RSA_WITH_AES_128_CBC_SHA256
+	[0035]	TLS_RSA_AES_256_SHA
+	[002F]	TLS_RSA_AES_128_SHA
+
+Compression: 
+	[00]	NO_COMPRESSION
+
+

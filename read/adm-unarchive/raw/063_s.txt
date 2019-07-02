@@ -1,0 +1,33 @@
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 10:41:18.900
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 384bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.amap.com, O="Alibaba (China) Technology Co., Ltd.", L=HangZhou, S=ZheJiang, C=CN
+
+[Issuer]
+  CN=GlobalSign Organization Validation CA - SHA256 - G2, O=GlobalSign nv-sa, C=BE
+
+[Serial Number]
+  70B3603B92B5D3A0888E0F64
+
+[Not Before]
+  2018/7/16 10:51:07
+
+[Not After]
+  2019/7/17 10:51:07
+
+[Thumbprint]
+  7E09A78B6AD6C41A51F5A5DAF7B77E28A84D9494
+
+[SubjectAltNames]
+*.amap.com, amap.com

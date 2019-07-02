@@ -1,0 +1,16 @@
+POST https://tcmobileapitest1.17usoft.com/foundation/foundationhandler.ashx HTTP/1.1
+Host: tcmobileapitest1.17usoft.com
+Accept: */*
+apmat: 30AF59FA-0A04-4F19-8E95-477ED221BB20|i|20190510104117547|00000
+secver: 4
+reqdata: a659f6bc6dc5d4719201fcbd1e8eff89
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN
+Content-Type: application/json
+secsign: d69c65624590d309a2736ac75a01740ffe712f2b22f0a2e4c5413ead37f8580e
+Content-Length: 689
+User-Agent: TongchengRequest
+Connection: keep-alive
+sxx: e534dd876e4cda6db57bea26471e6d8c
+
+{"request":{"body":{"clientInfo":{"versionNumber":"9.1.5","clientId":"010ad2346ab67149c7a453f63fa068e9a4bf6dd76600","mac":"3257b3a91f8eea874d0d48c725b75a60","clientIp":"10.101.128.113","versionType":"iPhone","area":"1|16|226","deviceId":"30AF59FA-0A04-4F19-8E95-477ED221BB20","networkType":"wifi","pushInfo":"","extend":"2^com.tongcheng.iphone,4^10.3.3,5^iPhone7_1,os_v^10.3.3^Amaryllis","device":"30AF59FA-0A04-4F19-8E95-477ED221BB20|414*736|iPhone7,1","refId":"5866741","systemCode":"tc"}},"header":{"accountID":"5ee7b429-b8c6-400f-8b87-3c384c4ea68a","serviceName":"getabtestresult","reqTime":"1557456077531","digitalSign":"13da14064c72b819b8b584648b8f36d6","version":"20110303090115"}}}

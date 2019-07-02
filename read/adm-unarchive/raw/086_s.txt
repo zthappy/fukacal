@@ -1,0 +1,21 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Fri, 10 May 2019 02:41:20 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: openresty/1.11.2.1
+leonid-requrl: /webleonid/gg/page/PChome
+Vary: User-Agent
+Location: https://m.ly.com?refid=18024458
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Powered-By: Express
+Leonid-MisCache: 35786/35786-noc
+Leonid-Ins: 735365034-HitConf-2[m]-59e5f4bea1a367bed38ff1e3
+Leonid-Time: 144
+Leonid-addr: MTcyLjE4LjkzLjE1
+
+1
+
+
+0
+

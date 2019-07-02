@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 May 2019 02:40:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 854
+Connection: keep-alive
+Cache-Control: private
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+id: TCWEBV063027
+
+{"ResponseCode":1000,"ResponseMsg":"操作成功","ResponseTime":"2019-05-10 10:40:47","ResponseBody":{"MainTitle":"什么是【抢到票再付款】","SubText":"1、抢到票再付款是同程旅游基于微信免密支付推出的快捷抢票功能，抢票订单提交后无需付款，抢到票后我们会自动从您绑定的支付账户里扣除票款。\n2、您必须开通微信免密支付才可享用抢到票再付款。单笔限额2000元，每天限5次支付。\n3、请确认您的支付账户里余额充足，否则扣款失败将导致您的抢票失败。","ButtonText":"微信代扣 先抢后付","Switch":true,"IsWithHold":"1","LimitAmount":2000,"Config":{"BannerTitle":"开通微信免密支付","BannerTag":"先抢后付","BannerDes":"抢到票再扣款","BannerIsDefault":true}},"ResponseTag":"6954055ba73b455a8d521dadf83a2342"}

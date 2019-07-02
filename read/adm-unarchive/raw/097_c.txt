@@ -1,0 +1,9 @@
+GET https://gny.ly.com/ HTTP/1.1
+Host: gny.ly.com
+Accept: */*
+Cookie: dujiaUserToken=2f042a5c-7f5b-410b-8a53-1db7eb267ed1; route=12be833de4276b92c179ce1658d8491d; session=90f7775c-1499-4100-b0e6-86a25389c262; NCName=%E8%8B%8F%E5%B7%9E; NCid=226; NewProvinceId=16; NewProvinceName=%E6%B1%9F%E8%8B%8F
+User-Agent: TCTravel_IPhone/9.1.5 (iPhone; iOS 10.3.3; Scale/3.00)
+Accept-Language: zh-Hans-CN;q=1, zh-Hant-CN;q=0.9, ja-CN;q=0.8, en-US;q=0.7
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+

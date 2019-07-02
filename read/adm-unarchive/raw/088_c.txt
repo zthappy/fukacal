@@ -1,0 +1,9 @@
+GET https://m.ly.com/?refid=18024458 HTTP/1.1
+Host: m.ly.com
+Accept: */*
+Cookie: dujiaUserToken=26ac2047-5dcc-41fd-966c-57222e053dbc; session=6cd78ad4-6201-442f-81da-39feddf43985; route=41a884a6478c126e9cec03cd1df08400; NCName=%E8%8B%8F%E5%B7%9E; NCid=226; NewProvinceId=16; NewProvinceName=%E6%B1%9F%E8%8B%8F
+User-Agent: TCTravel_IPhone/9.1.5 (iPhone; iOS 10.3.3; Scale/3.00)
+Accept-Language: zh-Hans-CN;q=1, zh-Hant-CN;q=0.9, ja-CN;q=0.8, en-US;q=0.7
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+

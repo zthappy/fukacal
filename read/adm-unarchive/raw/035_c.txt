@@ -1,0 +1,10 @@
+GET https://js.aq.qq.com/js/aq_common.js HTTP/1.1
+Host: js.aq.qq.com
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Thu, 14 Feb 2019 06:24:21 GMT
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Referer: https://wx.gtimg.com/authority_payment/renew_succ.html?showwxpaytitle=1&dis_account=tongcheng71945&bank=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C-%E5%82%A8%E8%93%84%E5%8D%A1-9407&returnApp=1&appid=wxc9cdd58cd74840bb&from=undefined
+Accept-Encoding: gzip, deflate
+

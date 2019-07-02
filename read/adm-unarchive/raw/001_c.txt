@@ -1,0 +1,13 @@
+POST http://tcmobileapi.t.17usoft.com/uniontrain/webapi/WeiXinHold/WeChatSignPayment HTTP/1.1
+Host: tcmobileapi.t.17usoft.com
+Content-Type: application/x-www-form-urlencoded
+Origin: file://
+Connection: keep-alive
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 TcTravel/9.1.5/Debug QBWebViewType/1
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+Content-Length: 191
+
+para=%7B%22TimeStamp%22%3A1557456047.082%2C%22MemberId%22%3A%221a18c27bceed0165f0252bfe914a74d6%22%2C%22PlatId%22%3A433%2C%22AppVersion%22%3A%22915%22%7D&sign=37733ea96282d94813889e64c5373dce

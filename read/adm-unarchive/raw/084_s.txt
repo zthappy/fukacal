@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: NWSs
+Date: Fri, 10 May 2019 02:41:19 GMT
+Content-Type: text/html
+Content-Length: 2
+Connection: keep-alive
+Cache-Control: max-age=600
+Expires: Fri, 10 May 2019 02:51:19 GMT
+Last-Modified: Thu, 09 May 2019 03:00:00 GMT
+X-NWS-LOG-UUID: 89ec1557-7d76-435a-96fe-75a234bbff4c
+X-Cache-Lookup: Hit From Disktank3
+Access-Control-Allow-Origin: *
+X-Daa-Tunnel: hop_count=1
+X-Cache-Lookup: Hit From Inner Cluster
+
+OK

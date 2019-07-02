@@ -1,0 +1,33 @@
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 10:40:48.786
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 384bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=tudg.qq.com, OU=R&D, O=Tencent Technology (Shenzhen) Company Limited, L=Shenzhen, S=Guangdong, C=CN
+
+[Issuer]
+  CN=Secure Site Pro CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+
+[Serial Number]
+  0DEBFA282D025E481458A5B62C412EB3
+
+[Not Before]
+  2018/9/5 8:00:00
+
+[Not After]
+  2019/11/4 20:00:00
+
+[Thumbprint]
+  DA9A6D0A012EC7124C83752A92B41D8FB0C12EA4
+
+[SubjectAltNames]
+tudg.qq.com

@@ -1,0 +1,47 @@
+CONNECT api.mch.weixin.qq.com:443 HTTP/1.1
+Host: api.mch.weixin.qq.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Connection: keep-alive
+Connection: keep-alive
+
+A SSLv3-compatible ClientHello handshake was found. Fiddler extracted the parameters below.
+
+Version: 3.3 (TLS/1.2)
+Random: 5C D4 E4 AF EA 78 CE 11 35 92 A4 61 4B 8C 1E 56 4D 4F E3 59 E1 9C 91 64 2F D6 07 BC 94 9F E6 6B
+"Time": 2063/7/7 12:49:32
+SessionID: 8F 29 00 00 EB 2F 3A 4F A6 DD 48 98 C6 FB 1C 0E D8 75 5E F7 E6 71 DE A7 A8 13 6E 70 C1 14 D6 D0
+Extensions: 
+	server_name	api.mch.weixin.qq.com
+	elliptic_curves	secp256r1 [0x17], secp384r1 [0x18], secp521r1 [0x19]
+	ec_point_formats	uncompressed [0x0]
+	signature_algs	sha256_rsa, sha1_rsa, sha384_rsa, sha512_rsa, sha256_ecdsa, sha1_ecdsa, sha384_ecdsa, sha512_ecdsa
+	NextProtocolNego	empty
+	ALPN		http/1.1, http/1.0
+	status_request	OCSP - Implicit Responder
+	SignedCertTimestamp (RFC6962)	empty
+	extended_master_secret	empty
+Ciphers: 
+	[00FF]	TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+	[C02C]	TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+	[C02B]	TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+	[C024]	TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+	[C023]	TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+	[C00A]	TLS1_CK_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+	[C009]	TLS1_CK_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+	[C030]	TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	[C02F]	TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	[C028]	TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	[C027]	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+	[C014]	TLS1_CK_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	[C013]	TLS1_CK_ECDHE_RSA_WITH_AES_128_CBC_SHA
+	[009D]	TLS_RSA_WITH_AES_256_GCM_SHA384
+	[009C]	TLS_RSA_WITH_AES_128_GCM_SHA256
+	[003D]	TLS_RSA_WITH_AES_256_CBC_SHA256
+	[003C]	TLS_RSA_WITH_AES_128_CBC_SHA256
+	[0035]	TLS_RSA_AES_256_SHA
+	[002F]	TLS_RSA_AES_128_SHA
+
+Compression: 
+	[00]	NO_COMPRESSION
+
+

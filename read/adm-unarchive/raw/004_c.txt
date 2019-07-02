@@ -1,0 +1,11 @@
+POST https://vstlog.17usoft.com/wireless/Trajectory/1/SDKSaveEventListData HTTP/1.1
+Host: vstlog.17usoft.com
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Accept: */*
+User-Agent: %E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8Dev/9.1.5.0a CFNetwork/811.5.4 Darwin/16.7.0
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+Content-Length: 600
+
+kCjRAul0fXMYyrJCAKxkv7iq7KyCBA354eyIYyeIV+16faRRsWHDYfW6F8iCVx08KJU2GiMJfa310ROXqMIiQhhqhkwH6wF2s41MOZZK6TR5eUi28uFv9eE7A4p2aNswj2aEgaAEv7vGxzkOytUSkGFBlps5UFU4hKOiK5pB/gl1Mj7dDYHDEsqcNMtCA/PiSLdXDRiP74drK+OSpYbTRSngs0kB5USUBUOlIu1c5jUJ0Lvgw5UdAZHERWzB61npM1wGuzn4DSXZDA/bPCeZK4vy+R9Gu3prCzgEmLH8wll3VIFsI8hWn0oRFjRECD8arkgPeJfoFQWr3zHXgpfSE1wXU3tsUwuMauXYNILhGOA/mA/FxH68GDzFWUoH6/VuwSibamBlZxsneOETR06HqU8YTr0PsL4Oku4XheHRZstMJC2ma1bd/kN4fTGwkbUTdR1XNzYy5ZRj7xYDmVhbG+Di+YRvt1WFSD2gCUkHKy3uvxGqS4h4ltYv7yavYR94zou9IT2x+HTCpnb6iC67pw8wIjhG98NhiMmwxySsXHy3H1aMPGGmg9jOqiyPD/xh/sCjeLPdtOdFGXULwKl+gQ==

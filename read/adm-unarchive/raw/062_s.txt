@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 May 2019 02:41:18 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 107
+Connection: keep-alive
+Cache-Control: private
+Server: Microsoft-IIS/7.5
+reqdata: 73437e8a9142ba15ad240f3f188a1fd9
+secver: 4
+sec-ver: 4
+3gwap: 4
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+
+{"response":{"header":{"rspType":"0","rspCode":"0000","rspDesc":"提交成功","rspTime":"1557456078737"}}}

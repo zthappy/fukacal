@@ -1,0 +1,9 @@
+GET https://tudg.qq.com/dataimport/ImportService?m=dataImport&p=[%22100000%22,%22dm%3Dwx.gtimg.com%26url%3D%2Fauthority_payment%2Frenew_open.html%26pvi%3D2456184832%26si%3Ds1309860864%26sp%3D722%26random%3D1557456048974%26sk%3D%26type%3Dextend%26uid%3D361557223260762-4e23b73c-a470-8ce4%26sid%3D1557456048490-aa586e3d-71e3-84d9%26pid%3D34%26cid%3D81%26gid%3D113%26sk4%3Dkeypoint%26sv4%3D332%26sp4%3D1557456048973%22] HTTP/1.1
+Host: tudg.qq.com
+Connection: keep-alive
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Referer: https://wx.gtimg.com/authority_payment/renew_open.html?appid=wxc9cdd58cd74840bb&contract_code=636471945&duration_selected=&mch_id=1319423101&notify_url=http%3A%2F%2Ftrain.t.17usoft.net%2Fsgcallback%2Fpay%2Fnotify&plan_id=123452&request_serial=20190510104031&sign=0B5B4CDEF103D5F5907074D5E13A8EFE&timestamp=1557484831&version=1.0&wx_rf=&return_app=1&clientip=172.18.63.99&contract_display_account=tongcheng71945&entrustweb_token=fbf80e202ea34d16375ad7a97d81ff37&entrustweb_acct=oX2-vjmxExVPBwqdBPVQKcgr_3w0&gray_switch=1
+Accept-Encoding: gzip, deflate
+
